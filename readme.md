@@ -13,7 +13,7 @@
 5. Закрыть консоль скрипта
 6. Перенести содержимое папки `Python27` в текущую папку
 7. Перенести файл `pyspigot-0.7.0-SNAPSHOT.jar` в `plugins\PySpigot\scripts` (папка Plugins появится после завершения работы скрипта)
-8. В файле `server.properties` заменить порт на `4642` и указать параметр `online-mode=false`
+8. В файле `server.properties` установить параметры `server-port=4642` и `online-mode=false`
 9. Снова запустить `start.bat`
 10. Закрыть start.bat после завершения работы
 
